@@ -34,7 +34,7 @@ class _WordListAppState extends State<WordListApp> {
     });
 
     _translation = Translation(
-        apiKey: 'AIzaSyDhYeWoKAxbJ4xUsooQ3MHbiwM0XCE1RCM'
+        apiKey: '<YOU_API-KEY>'
     );
   }
 
