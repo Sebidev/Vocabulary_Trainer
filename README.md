@@ -1,4 +1,4 @@
-# vocabulary_trainer
+# Vocabulary Trainer
 
 a easy vocabulary trainer
 
